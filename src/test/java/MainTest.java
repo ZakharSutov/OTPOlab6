@@ -8,6 +8,7 @@ public class MainTest {
 
     @Test
     public void solveTrianglePuzzle() {
+        //System.setProperty("driver.chrome.driver", "C:/chromedriver/chromedriver.exe");
         WebDriver driver = new ChromeDriver();
         driver.get("https://playground.learnqa.ru/puzzle/triangle");
 
