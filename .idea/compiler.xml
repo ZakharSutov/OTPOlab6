@@ -9,5 +9,8 @@
         <module name="OTPOlab6" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="testing" target="16" />
+    </bytecodeTargetLevel>
   </component>
 </project>
